@@ -1,0 +1,16 @@
+{
+  "name": "demo-alchemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
+    "alchemy-sdk": "^2.0.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.10.1"
+  }
+}
